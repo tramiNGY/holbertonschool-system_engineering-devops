@@ -235,3 +235,24 @@ With proper design, you can build systems that are fast, secure, and highly avai
 | **QPS**  | Queries Per Second |
 | **HA**   | High Availability |
 | **SSL/TLS** | Secure Socket Layer / Transport Layer Security |
+
+## Ressouces
+
+- [Protocol](https://www.techtarget.com/searchnetworking/definition/protocol)
+- [IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm)
+- [Internet Protocol port](https://www.lifewire.com/port-numbers-on-computer-networks-817939)
+- [Server](https://en.wikipedia.org/wiki/Server_(computing)#Hardware_requirement)
+- [Server video](https://www.youtube.com/watch?v=B1ANfsDyjeA)
+- [Data centers](https://www.youtube.com/watch?v=iuqXFC_qIvA&t=33s)
+- [Web server](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_web_server)
+- [Difference between web and app server](https://www.youtube.com/watch?v=S97eKyv2b9M)
+- [DNS Records types](https://www.ibm.com/think/topics/dns-server)
+- [DNS A Record](https://support.dnsimple.com/articles/a-record/)
+- [Load Balancer](https://www.thegeekstuff.com/2016/01/load-balancer-intro/#google_vignette)
+- [Load Balancer Algorithms](https://community.f5.com/kb/technicalarticles/intro-to-load-balancing-for-developers-%E2%80%93-the-algorithms/273759)
+- [Database](https://www.techtarget.com/searchdatamanagement/definition/database)
+- [Single Point Of Failure](https://en.wikipedia.org/wiki/Single_point_of_failure)
+- [How to avoid downtime](https://softwareengineering.stackexchange.com/questions/35063/how-do-you-update-your-production-codebase-database-schema-without-causing-downt#answers-header)
+- [High-Availability Active-Active, Active-Passive](https://docs.oracle.com/cd/E17904_01/core.1111/e10106/intro.htm#ASHIA712)
+- [HTTP/HTTPS](https://www.sectigo.com/resource-library/http-vs-https?utm_source=redirect&utm_medium=tier2&utm_campaign=instantssl)
+- [Firewall](https://www.webopedia.com/definitions/firewall/)
